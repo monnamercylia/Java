@@ -9,6 +9,8 @@ public class MainTest {
 	@Test
 	public void test() {
 		assertEquals("a","a");
+		assertEquals("a","a");
+		
 	}
 
 }
